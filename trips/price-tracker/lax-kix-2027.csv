@@ -149,3 +149,6 @@ timestamp_pacific,day_of_week,hour,source,option,flights,total_price_2pax,seats_
 2026-11-24 16:10:32 PST,Tuesday,16,skiplagged,jal_roundtrip_one_ticket,JL69 LAX-KIX 2027-03-30 / JL60 KIX-LAX 2027-04-08,,,not_found
 2026-11-24 16:10:32 PST,Tuesday,16,kiwi,jal_roundtrip_one_ticket,JL69 LAX-KIX 2027-03-30 / JL60 KIX-LAX 2027-04-08,11799,,
 2026-11-24 16:10:32 PST,Tuesday,16,serpapi,jal_roundtrip_one_ticket,JL69 LAX-KIX 2027-03-30 / JL60 KIX-LAX 2027-04-08,2379,,low
+2026-11-24 20:10:24 PST,Tuesday,20,skiplagged,jal_roundtrip_one_ticket,JL69 LAX-KIX 2027-03-30 / JL60 KIX-LAX 2027-04-08,,,not_found
+2026-11-24 20:10:24 PST,Tuesday,20,kiwi,jal_roundtrip_one_ticket,JL69 LAX-KIX 2027-03-30 / JL60 KIX-LAX 2027-04-08,11865,,
+2026-11-24 20:10:24 PST,Tuesday,20,serpapi,jal_roundtrip_one_ticket,JL69 LAX-KIX 2027-03-30 / JL60 KIX-LAX 2027-04-08,2363,,low
